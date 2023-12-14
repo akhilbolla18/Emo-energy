@@ -13,7 +13,7 @@ This project is a web application that implements user authentication, providing
 - **Responsive Design**: The application is designed to be responsive, providing a seamless experience across various devices.
 
 ### Usage
-- Open your web browser and navigate to https://657b13ac76b49c26cab621bd--chimerical-medovik-9c7895.netlify.app/login 
+- Open your web browser and navigate to https://657b13ac76b49c26cab621bd--chimerical-medovik-9c7895.netlify.app
 - Explore the signup, login, and logout functionalities.
 
 ## Getting Started
