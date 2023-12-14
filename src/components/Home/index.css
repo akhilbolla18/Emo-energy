@@ -1,0 +1,56 @@
+.home-container{
+    background-color: white;
+    padding: 10%;
+    background-color: wheat;
+    min-height: 100vh;
+}
+
+.card {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+@media screen and (max-width: 767px) {
+    .card {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+    }
+  }
+
+p{
+    margin: 10px;
+}
+
+.about{
+    font-family: "Arial";
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 1px; 
+    
+
+}
+
+.title {
+    /* font-family: "Arial"; */
+    font-size: 30px;
+    font-weight: 600;
+    letter-spacing: 8px; 
+}
+
+.discription {
+    font-family: "Courier";
+    font-size: 16px;
+    font-weight: 600;
+
+}
+
+.image {
+    width: 320px;
+    height: 280px;
+    margin-left: 30px;
+}

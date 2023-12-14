@@ -1,0 +1,82 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+   
+}
+.nav-home{
+    width:100vw;
+    height: 10vh;
+    background-color:#000;
+    display: flex;
+    flex-direction:column;
+    
+   
+    
+}
+.bg-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center; 
+}
+.nav-heading{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color:#fff;
+
+}
+.book-blog-heading{
+    font-family: "Arial";
+    font-size: 20px;
+}
+.nav-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center; 
+}
+.nav-items{
+    color:#fff;
+    font-family: "Arial";
+    font-size: 18px;
+    font-weight: 500;
+    margin:10px;
+}
+.react-icon{
+    color: #d9bc1c;
+    padding:5px;
+    
+}
+.register{
+    font-family: "Arial";
+    font-weight:600;
+    font-size: 17px;
+    color: #fff;
+    font-style: none;
+    
+
+}
+
+.outlined-button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    border: 2px solid rgb(2, 62, 139); 
+    color: white; 
+    background-color: transparent; 
+    border-radius: 5px; 
+    transition: all 0.3s ease; /* Smooth transition on hover */
+    cursor: pointer;
+  }
+  
+  .outlined-button:hover {
+    background-color: rgb(2, 62, 139); /* Background color on hover */
+    color: #fff; /* Text color on hover */
+  }
+  
+
+  
